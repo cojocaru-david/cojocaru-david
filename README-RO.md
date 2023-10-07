@@ -1,10 +1,16 @@
-👋 Salutare! Sunt David Marius Cojocaru, un entuziast al programării în vârstă de 16 ani, mândru să reprezint România 🇷🇴. Bine ai venit pe profilul meu GitHub, unde pasiunea mea este să creez website-uri și să securizez spațiile online în zona de intersecție dintre web și cibernetică.
+![cover](images/cover.png)
+
+### 👋 Salutare!
+
+Sunt David Marius Cojocaru, un entuziast al programării în vârstă de 16 ani, mândru să reprezint România 🇷🇴. Bine ai venit pe profilul meu GitHub, unde pasiunea mea este să creez website-uri și să securizez spațiile online în zona de intersecție dintre web și cibernetică.
 
 ## Despre Mine
 
 - 🌐 **Tehnologii:** Sunt familiarizat cu diverse tehnologii web, inclusiv Lua, HTML, JavaScript, PHP și Node.js. Mă bucur să construiesc aplicații web cu instrumente precum Laravel, React, Astro și Nuxt, explorând în permanență modalități noi de a crea experiențe online captivante.
 
 - 💻 **Sisteme de Operare:** În ceea ce privește sistemele de operare, sunt un fan al Ubuntu și al Linux-ului. Ador să intru în lumea scripturilor bash pentru a automatiza sarcini și a eficientiza fluxurile de lucru.
+
+- 🔐 **Securitate:** Sunt pasionat de securitatea cibernetică și de protejarea spațiilor online. Sunt un mare fan al  [TryHackMe](https://tryhackme.com/), o platformă de învățare a securității cibernetice prin intermediul laboratoarelor de hacking.
 
 - 🎶 **Interese:** Când nu sunt absorbit de cod, mă găsești adesea absorbit de muzică, o altă pasiune a mea. Fie că caut proiecte noi la care să contribui sau că mă las dus de ritmuri muzicale, sunt întotdeauna deschis la oportunități incitante.
 
