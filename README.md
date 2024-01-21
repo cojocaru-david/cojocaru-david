@@ -16,7 +16,7 @@ Hello everyone! 👋 I'm David Marius Cojocaru, a 16-year-old coding enthusiast 
 
 ### Let's connect
 
-✉️ **Say hi:** Drop me a line at cojocarudavidmariusc@gmail.com for collaborations and discussions.
+✉️ **Say hi:** Drop me a line at contact@cojocarudavid.me for collaborations and discussions.
 
 🌍 **Exploration Awaits:** Ready to explore the vast horizons of technology. Let's connect and create something extraordinary! 🔗
 
