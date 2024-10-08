@@ -53,6 +53,6 @@ My coding journey started 4 years ago, and since then, it has been an exhilarati
 I'm always eager to collaborate, learn, and create amazing things together! Whether it's for a project, mentorship, or just to chat about tech, feel free to reach out.
 
 - **✉️ Email:** [contact@cojocarudavid.me](mailto:contact@cojocarudavid.me) *(Open to collaborations/mentorship)*
-- **💼 LinkedIn:** [cojocaru-david](linkedin.com/in/cojocaru-david) *(Feel free to connect with me)*
+- **💼 LinkedIn:** [cojocaru-david](https://www.linkedin.com/in/cojocaru-david) *(Feel free to connect with me)*
 
 Thank you for stopping by! Your visit is greatly appreciated.
