@@ -1,13 +1,18 @@
 ![cover](images/cover.png)
+
 # **David Cojocaru**
-**Dezvoltator Web | Pasionat de Securitate Cibernetică | România 🇷🇴** 
-![Vizualizări Profil](https://komarev.com/ghpvc/?username=david-cojocaru&color=orange)
 
-Salut! Sunt **David**, un programator pasionat de 16 ani, autodidact, care excelează la intersecția dintre dezvoltarea web și securitatea cibernetică.
+**Web Developer | Cybersecurity Enthusiast | Romania 🇷🇴** 
 
-## **🚀 Abilități**
+![Profile Views](https://komarev.com/ghpvc/?username=david-cojocaru&color=orange)
 
-### **Tehnologii Web**
+Hello! I'm **David**, a passionate 16-year-old self-taught coder, thriving at the intersection of web development and cybersecurity.
+
+
+## **🚀 My Skillset**
+
+
+### **Web Technologies**
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
@@ -21,7 +26,7 @@ Salut! Sunt **David**, un programator pasionat de 16 ani, autodidact, care excel
 ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
 
-### **Scripturi & Tools**
+### **Scripting & Tools**
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
@@ -30,24 +35,24 @@ Salut! Sunt **David**, un programator pasionat de 16 ani, autodidact, care excel
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 
-#### **Baze de date**
+#### **Database**
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 
-- **Sisteme de operare:** Windows și Ubuntu, cu o dragoste profundă pentru tot ce înseamnă Linux!
-- **Găzduire:** Competent în hosting și implementarea aplicațiilor web
+- **Operating Systems:** Windows and Ubuntu, with a deep love for all things Linux!
+- **Hosting:** Proficient in hosting and deploying web applications
 
-## **📖 Călătoria mea în programare**
+## **📖 My Coding Journey**
 
-Călătoria mea în programare a început acum 4 ani și de atunci a fost o experiență tare prin care am trecut, lumea acesta de dezvoltare web. Curiozitatea mea neobosită mă împinge să explorez continuu noi tehnologii și să împing limitele a ceea ce este posibil. Recent, m-am aprofundat în **Golang**, care s-a dovedit a fi atât o provocare, cât și o noutate.
+My coding journey started 4 years ago, and since then, it has been an exhilarating ride through the ever-evolving landscape of web development. My relentless curiosity drives me to continually explore new technologies and push the boundaries of what's possible. Recently, I've delved into **Golang**, which has proven to be both a challenge and a thrill.
 
-## **🌐 Să ne conectăm!**
+## **🌐 Let's Connect!**
 
-Sunt întotdeauna dornic să colaborez, să învăț și să creez lucruri uimitoare împreună! Fie că este vorba de un proiect, mentorat sau doar pentru a discuta despre tehnologie, nu ezita să mă contactezi.
+I'm always eager to collaborate, learn, and create amazing things together! Whether it's for a project, mentorship, or just to chat about tech, feel free to reach out.
 
-- **✉️ Email:** [contact@cojocarudavid.me](mailto:contact@cojocarudavid.me) *(Deschis pentru colaborări/mentorat)*
-- **💼 LinkedIn:** [cojocaru-david](https://www.linkedin.com/in/cojocaru-david) *(Nu ezita să te conectezi cu mine)*
+- **✉️ Email:** [contact@cojocarudavid.me](mailto:contact@cojocarudavid.me) *(Open to collaborations/mentorship)*
+- **💼 LinkedIn:** [cojocaru-david](https://www.linkedin.com/in/cojocaru-david) *(Feel free to connect with me)*
 
-Îți mulțumesc că ai trecut pe aici! 
+Thank you for stopping by! Your visit is greatly appreciated.
