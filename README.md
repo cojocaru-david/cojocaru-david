@@ -6,7 +6,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=david-cojocaru&color=orange)
 
-Hello! I'm **David**, a passionate 16-year-old self-taught coder, thriving at the intersection of web development and cybersecurity.
+Hello! I'm **David**, a passionate 17-year-old self-taught coder, thriving at the intersection of web development and cybersecurity.
 
 
 ## **🚀 My Skillset**
